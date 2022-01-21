@@ -7,7 +7,7 @@ from time import sleep #Faz o computador dormi
 print('=-'*15)
 print('       TENTE ADIVINHAR!   ')
 print('=-'*15)
-computador = randint(0, 5) #Vai gerar o número que o computador pesnsou
+computador = randint(0, 5) #Vai gerar o número que o computador pensou
 print('Vou pensar em um número de 0 a 5 tente adivinhar: ')
 num = int(input('Em que número eu pensei? '))
 print('Penssando ...')
